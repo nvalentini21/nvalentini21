@@ -1,6 +1,6 @@
-### Aloha! 👋 My name is Nicole.
+# Aloha! 👋 My name is Nicole.
 
-# I am a front-end engineer who recently graduated from the Turing School of Software and Design. I am passionate about integrating empathy with coding to develop dynamic, user-centered applications. 
+### I am a front-end engineer who recently graduated from the Turing School of Software and Design. I am passionate about integrating empathy with coding to develop dynamic, user-centered applications. 
 
 <div align="center">
   <a href="https://github.com/nvalentini21/github-readme-stats">
