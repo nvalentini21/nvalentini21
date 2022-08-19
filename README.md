@@ -8,7 +8,7 @@
   <a href="https://github.com/nvalentini21/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nvalentini21&show_icons=true&theme=graywhite" height="200" width="500"/>
   </a>
-  <a href="https://github.com/alyssabull/github-readme-stats">
+  <a href="https://github.com/nvalentini21/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvalentini21&theme=graywhite" height="200" width="300"/>
   </a>
 </div>
