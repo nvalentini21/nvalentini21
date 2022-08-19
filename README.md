@@ -4,6 +4,8 @@
 
 ---
 
+[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvalentini21)](https://github.com/nvalentini21/github-readme-stats)
+
 <div align="center">
   <a href="https://github.com/nvalentini21/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nvalentini21&count_private=true&show_icons=true&theme=graywhite" height="200" width="500"/>
